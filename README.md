@@ -34,15 +34,15 @@ https://developer.twitter.com/en/docs/twitter-api/getting-started/getting-access
 
 Midterm Project-Extra Resources
 
-https://online.datasciencedojo.com/course/Sentiment-Pipeline-for-Live-Tweets#ccnTab-2Links to an external site.
-https://code.datasciencedojo.com/datasciencedojo/tutorials/tree/master/Building%20Real-Time%20Sentiment%20Pipeline%20for%20Live%20TweetsLinks to an external site.
-Building Real-Time Sentiment Pipeline for Live Tweets · master · Data Science Dojo / tutorials · CodeLinks to an external site.
-Twitter Sentiment Visualization (ncsu.edu)Links to an external site.
-Tweet Sentiment Visualization App (ncsu.edu)Links to an external site.
-2015/02-DataScrapingQuizzes.ipynb at master · cs109/2015 · GitHubLinks to an external site.
-Justin BlinderLinks to an external site.
-by Healey and Ramaswamy
+1. https://online.datasciencedojo.com/course/Sentiment-Pipeline-for-Live-Tweets#ccnTab-2Links to an external site.
+2. https://code.datasciencedojo.com/datasciencedojo/tutorials/tree/master/Building%20Real-Time%20Sentiment%20Pipeline%20for%20Live%20TweetsLinks to an external site.
+3. Building Real-Time Sentiment Pipeline for Live Tweets · master · Data Science Dojo / tutorials · CodeLinks to an external site.
+4. Twitter Sentiment Visualization (ncsu.edu)Links to an external site.
+5. Tweet Sentiment Visualization App (ncsu.edu)Links to an external site.
+6. 2015/02-DataScrapingQuizzes.ipynb at master · cs109/2015 · GitHubLinks to an external site.
+7. Justin Blinder 
+8. by Healey and Ramaswamy
 http://www.csc.ncsu.edu/faculty/healey/tweet_viz/tweet_app/Links to an external site.
-GitHub - bear/python-twitter: A Python wrapper around the Twitter API.Links to an external site.
-All Tutorials (datasciencedojo.com)Links to an external site.
-Course: What is a Data Engineer (datasciencedojo.com)
+9. GitHub - bear/python-twitter: A Python wrapper around the Twitter API.Links to an external site.
+10. All Tutorials (datasciencedojo.com)Links to an external site.
+11. Course: What is a Data Engineer (datasciencedojo.com)
